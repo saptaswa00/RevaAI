@@ -57,11 +57,6 @@ Pygments
 pyparsing
 pyrsistent
 python-dateutil
-pytz
-
-pyzmq
-qtconsole
-QtPy
 retrying
 scikit-learn
 scipy
@@ -70,9 +65,6 @@ Send2Trash
 Six
 terminado
 testpath
-threadpoolctl
-tornado
-traitlets
 typing-extensions
 wcwidth
 webencodings
