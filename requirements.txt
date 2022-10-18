@@ -22,11 +22,6 @@ ipykernel
 ipython
 ipython-genutils
 ipywidgets
-itsdangerous
-jedi
-Jinja2
-joblib
-jsonschema
 jupyter
 jupyter-client
 jupyter-console
