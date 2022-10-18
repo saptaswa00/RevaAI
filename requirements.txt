@@ -2,7 +2,7 @@ Flask
 sklearn
 pandas
 numpy
-matplotlb
+matplotlib
 gunicorn
 catboost
 Pillow
